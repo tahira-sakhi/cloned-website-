@@ -1,0 +1,23 @@
+# Application Configuration
+application:
+  name: "My Application"
+  version: "1.0.0"
+  description: "A simple application with header, intro, and footer components."
+
+# Dependencies
+dependencies:
+  frontend:
+    react: "^17.0.2"
+    react-dom: "^17.0.2"
+
+# Components Configuration
+components:
+  header:
+    path: "./components/Myheader"
+  intro:
+    path: "./components/Intro"
+  footer:
+    path: "./components/footer/Myfooter"
+
+# Main Application Entry Point
+entry_point: "App"
