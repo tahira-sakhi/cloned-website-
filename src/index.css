@@ -83,15 +83,16 @@ button:hover{
   /* border: 3px solid red; */
   height : 350px;
   padding: 10%; 
-  margin-left: 130px;
+  margin-left: 180px;
   border: none;
   
 } 
 .userEmail{
-  margin-right: 30px;
-  padding: 13px;
+  margin-right: 20px;
+  padding: 15px;
   margin-bottom: 200px;
-  margin-left: 100px;
+  border-radius: 8px;
+
   
 } 
   
